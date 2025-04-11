@@ -1,12 +1,12 @@
-# AdventureWorks Power BI Report
+# Gears Power BI Report
 
-This Power BI project explores sales, customer, and product data from the AdventureWorks dataset. It aims to deliver actionable business insights across geographies, customer segments, and product categories using interactive dashboards and DAX-powered visualizations.
+GEARS Bikes is a global bike and cycling company specializing in high-quality bicycles, gear, and repair services, dedicated to promoting an active lifestyle and supporting riders of all levels—from beginners to competitive athletes—through expert guidance and a passion for the cycling community. The dashboard aims to deliver actionable business insights across geographies, customer segments, and product categories using interactive dashboards and DAX-powered visualizations.
 
 ## Project Overview
 
-- **Dataset:** AdventureWorks sample database
+- **Dataset:** Microsoft sample database
 - **Tool Used:** Microsoft Power BI
-- **Purpose:** To create a comprehensive business intelligence report for AdventureWorks stakeholders focusing on:
+- **Purpose:** To create a comprehensive business intelligence report for Gears stakeholders focusing on:
   - Sales performance
   - Product profitability
   - Customer segmentation
@@ -58,14 +58,14 @@ This Power BI project explores sales, customer, and product data from the Advent
 ## Getting Started
 
 1. Open the `.pbix` file in Power BI Desktop
-2. Ensure the `AdventureWorks` dataset is preloaded or accessible (if external connection is used)
+2. Ensure the Microsoft sample dataset is preloaded or accessible (if external connection is used)
 3. Explore each report tab for detailed insights
 4. Interact with slicers, filters, and visualizations to analyze data
 
 ##  Requirements
 
 - Power BI Desktop (May 2021 or later recommended)
-- Optional: Access to original AdventureWorks database for refresh
+- Optional: Access to original Microsoft database for refresh
 
 ## Skills Demonstrated
 
